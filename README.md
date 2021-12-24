@@ -16,17 +16,17 @@
 
 ### Email verification
 - [ ] Check email 
-      - Email reachability, 
-      - Syntax validation, 
-      - DNS records validation, 
-      - Disposable email address (DEA) validation, 
-      - SMTP server validation, 
-      - Email deliverability, 
-      - Mailbox disabled, 
-      - Full inbox, 
-      - Catch-all address, 
-      - Role account validation, 
-      - Free email provider check
+      - [ ] Email reachability, 
+      - [ ] Syntax validation, 
+      - [ ] DNS records validation, 
+      - [ ] Disposable email address (DEA) validation, 
+      - [ ] SMTP server validation, 
+      - [ ] Email deliverability, 
+      - [ ] Mailbox disabled, 
+      - [ ] Full inbox, 
+      - [ ] Catch-all address, 
+      - [ ] Role account validation, 
+      - [ ] Free email provider check
 - [ ] Upload your dirty list for bulk email list cleaning
 - [ ] Download a clean list
 - [ ] Verify your email list directly in the tool that you use for sending sending newsletters (integrations): Mailchimp, etc.
