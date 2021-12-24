@@ -31,6 +31,11 @@
 - [ ] Download a clean list
 - [ ] Verify your email list directly in the tool that you use for sending sending newsletters (integrations): Mailchimp, etc.
 
+### Platform management (Admin only)
+- [ ] View a user details: (number of verified emails, invalid emails, etc.)
+- [ ] List of all registered users
+- [ ] Stats about total verified emails, total invalid emails, etc.
+
 ## Database architecture
 To be done after validation of all points in this document
 
