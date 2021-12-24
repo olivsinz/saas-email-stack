@@ -29,7 +29,7 @@
       - [ ] Free email provider check
 - [ ] Upload your dirty list for bulk email list cleaning
 - [ ] Download a clean list
-- [ ] Verify your email list directly in the tool that you use for sending sending newsletters (integrations): Mailchimp, etc.
+- [ ] Verify your email list directly in the tool that you use for sending newsletters (integrations): Mailchimp, etc.
 
 ### Platform management (Admin only)
 - [ ] View a user details: (number of verified emails, invalid emails, etc.)
@@ -59,7 +59,7 @@ To be done after validation of all points in this document
 4. A user must be able to connect with his email and password.
 5. A user can enable an account with his username, an email address, and a password.
 6. A user must be able Two-factor authentication for his account.
-7. A user can view his last login (time and location).
+7. A user must be able to enable Two-factor authentication for his account.
 8. The last two passwords can no longer be accepted when changing password.
 9. A user must be able to reset his password.
 10. A user can verify a single email or a long list of emails.
