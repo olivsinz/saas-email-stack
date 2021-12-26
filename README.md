@@ -1,6 +1,6 @@
  ## Inspiration
- - https://www.emaillistverify.com/
- - https://neverbounce.com/
+ - https://www.emaillistverify.com
+ - https://neverbounce.com
 
 ## List of features to be developed for v1
 ### Guest/Unauthenticated users
